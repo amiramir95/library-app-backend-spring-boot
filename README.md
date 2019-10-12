@@ -4,4 +4,4 @@ Conception et Developement d’une application Web de gestion librarie universit
 
 Outils : Spring Boot, Angular , Hibernate, Spring Data JPA, Spring REST, Mysql.
 
-Projet en collaboration avec Amir Aloui: https://github.com/amiramir95
+Projet en collaboration avec Youssef Tarzi: https://github.com/yousseftarzi
